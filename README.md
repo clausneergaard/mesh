@@ -1,4 +1,4 @@
 mesh
 ====
 
-Mesh-based experiments
+Mesh-based experiments, updated as I go along.
